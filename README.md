@@ -3,7 +3,7 @@ Projeto desenvolvido em Python 3.12.3 para o jogo Dameo, com suporte a Inteligê
 
 ## 👨‍💻 Autores
 
-Afonso Marcos, Pedro Afonso, Afonso Silva (PL5)
+Afonso Marcos, Pedro Afonso, Afonso Silva 
 
 ## 📥 Transferência do Projeto
 
