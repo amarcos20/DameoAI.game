@@ -1,37 +1,37 @@
 # DameoAI.game
-Projeto desenvolvido em Python 3.12.3 para o jogo Dameo, com suporte a Inteligência Artificial e jogabilidade personalizável.
+Project developed in Python 3.12.3 for the Dameo game, with Artificial Intelligence support and customizable gameplay.
 
-## 👨‍💻 Autores
+## 👨‍💻 Authors
 
-Afonso Marcos, Pedro Afonso, Afonso Silva 
+Afonso Marcos, Pedro Afonso, Afonso Silva
 
-## 📥 Transferência do Projeto
+## 📥 Project Download
 
-### 1.1. Extração
+### 1.1. Extraction
 
-Antes de iniciar, é necessário extrair os ficheiros do projeto. Pode-se transferir o projeto completo ou apenas a versão correspondente ao sistema operativo desejado.
+Before starting, you need to extract the project files. You can download the complete project or just the version corresponding to your desired operating system.
 
-### 1.2. Sistema Operativo
+### 1.2. Operating System
 
-O projeto está otimizado para:
+The project is optimized for:
 - **Windows**
 - **MacOS / Linux**
 
-Certifique-se de utilizar a versão correta para o seu sistema.
+Make sure to use the correct version for your system.
 
-## ▶️ Executar o Projeto
+## ▶️ Run the Project
 
-### 2.1. Requisitos
+### 2.1. Requirements
 
-Instalar a biblioteca **Pygame 2.6.1** (versão otimizada).
+Install the **Pygame 2.6.1** library (optimized version).
 
 ```bash
 pip install pygame==2.6.1
 ```
 
-### 2.2. Diretório
+### 2.2. Directory
 
-Execute o código a partir dos seguintes diretórios, consoante o seu sistema operativo:
+Execute code :
 
 - MacOS / Linux:
   ```
@@ -43,33 +43,27 @@ Execute o código a partir dos seguintes diretórios, consoante o seu sistema op
   \Windows\Projeto_1_final
   ```
 
-## 🕹 Menu Principal
+## 🕹 Menu 
 
-### 3.1. Opções
+### 3.1. Option
 
 No menu principal (ao executar o ficheiro `Dameo_Start_Game`), pode escolher:
-- **Tamanho do tabuleiro**: 5x5 até 8x8
-- **Modos de jogo**:
-  - Humano vs AI
+- **Size**: 5x5 até 8x8
+- **Game mode**:
+  - Human vs AI
   - AI vs AI
-  - Humano vs humano
+  - Human vs Human
 
-### 3.2. Inteligência Artificial (AI)
+### 3.2. Artificial Intelligence (AI)
 
-O jogo inclui 4 níveis de dificuldade para a IA:
+The game includes 4 difficulty levels for the AI:
+
 
 | Dificuldade | Descrição |
 |-------------|-----------|
-| Bebé        | Modelo de jogadas aleatórias (Random) |
-| Fácil       | Algoritmo Minimax com profundidade 2 |
-| Médio       | Algoritmo Monte Carlo com 20 iterações |
-| Difícil     | Algoritmo Monte Carlo com 40 iterações |
+| Baby     | Random move level |
+| Easy       | Algorithm Minimax depth 2 |
+| Medium      | Algorithm Monte Carlo 20 iterations|
+| Difficult   | Algorithm Monte Carlo 40 iterations |
 
-## 🎉 Disfrutar
 
-Apesar de ser um projeto pequeno, tivemos um grande prazer em desenvolvê-lo. Esperamos que aproveite a experiência de jogo tanto quanto nós gostámos de a criar!
-
-## 📚 Fontes
-
-- Código base retirado de [AIMA code (GitHub)](https://github.com/aimacode)
-- Ferramentas utilizadas: Google AI Studio
